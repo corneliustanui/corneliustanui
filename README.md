@@ -4,7 +4,7 @@ I am an exceptionally skilled data professional with over 5 years of experience 
 
 #### Skills 🔨
 
-| 📝Data Collection | 💻 Data Analysis  | 📊 Reporting |
+| Data Collection 📝| Data Analysis 💻 | Reporting 📊 |
 | ---------------- |:-------------------:| ------------:|
 | 1. R             | 1. ODK              | 1. RShiny    |
 | 2. Python        | 2. KoboToolbox      | 2. Tableau   |
@@ -12,9 +12,9 @@ I am an exceptionally skilled data professional with over 5 years of experience 
 | 4. Excel         | 4. SurveyCTO        | 4. Qliksense |
 | 5. SAS           | 5. Survey Solutions | 5. Excel     |
  
-#### 🎓 Training
+#### Training 🎓
 1. BSc. Applied Statistics with Computing
    
-#### 🌐 Handles
+#### Handles 🌐
 1. LinkedIn
    
