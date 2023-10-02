@@ -16,5 +16,5 @@ I am an exceptionally skilled data professional with over 5 years of experience 
 1. BSc. Applied Statistics with Computing
    
 #### Handles 🌐
-1. LinkedIn
+1. [LinkedIn](https://ke.linkedin.com/in/cornelius-tanui-527979b9)
    
