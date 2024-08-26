@@ -2,13 +2,16 @@
 I am a data professional with over 7 years of experience across public health, renewable energy, WASH, climate action, and clinical trials. Currently, I work full-time as a clinical data configurations engineer at [Takeda](https://www.takeda.com/), through [Phastar](https://phastar.com/about-us)'s FSP model.
 
 #### Skills :hammer_and_wrench: 
-| Clinical Data Collection 🩺|  Clinical ETL Tools ⚙️ | Survey Data Collection 📝 | Data Analysis 💻 | Reporting 📊 |
-| ---------------------------|:------------------------|:---------------------------|:----------------:| ------------:|
-| 1. Medrio                  | 1. SQL                  | 1. ODK                     | 1. R             | 1. R/Shiny   |
-| 2. Medidata Rave           | 2. elluminate           | 2. KoboToolbox             | 2. Python        | 2. Tableau   |
-|                            | 3. Veeva CDB            | 3. CommCare                | 3. Stata         | 3. PowerBI   |
-|                            | 4. R                    | 4. SurveyCTO               | 4. SAS           | 4. Qliksense |
-|                            | 5. Python               | 5. Survey Solutions        | 5. Excel         | 5. Excel     |
+| Data Management 📝 |  ETL Tools ⚙️ | Data Analysis 💻| Data Visualization 📊|
+| --------------------|:-------------:|-----------------:|---------------------:|
+| 1. Medrio           | 1. SQL        | 1. R             | 1. R/Shiny           |
+| 2. Medidata Rave    | 2. elluminate | 2. Stata         | 2. Excel             |
+| 3. ODK              | 3. R          | 3. Python        | 3. PowerBI           |
+| 4. KoboToolbox      | 4. Pyhton     | 4. SAS           | 4. Tableau           |
+| 5. CommCare         | 5. Veeva CDB  | 5. Excel         | 5. Qliksense         |
+| 6. SurveyCTO        |
+| 7. Survey Solutions |
+
 
 #### Education 🎓
 1. BSc. Applied Statistics with Computing
