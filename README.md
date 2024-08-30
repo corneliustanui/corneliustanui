@@ -1,5 +1,5 @@
 ### Hi there 👋, welcome to my GitHub profile!
-I am a data professional with over 7 years of experience across public health, renewable energy, WASH, climate action, and clinical trials. Currently, I work full-time as a clinical data configurations engineer at [Takeda](https://www.takeda.com/), through [Phastar](https://phastar.com/about-us)'s FSP model.
+I am a data professional with over 7 years of experience across public health, renewable energy, WASH, climate action, and clinical trials. Currently, I work full-time in the clinical trials industry.
 
 #### Skills :hammer_and_wrench: 
 | Data Management 📝 |  ETL Tools ⚙️ | Data Analysis 💻| Data Visualization 📊|
