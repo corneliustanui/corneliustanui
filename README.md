@@ -25,8 +25,6 @@ I am a data professional with over 7 years of experience across public health, r
 </div>  
 
 #### My Stats :fire: 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=corneliustanui&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=corneliustanui&background=FFFFFF)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corneliustanui&hide=javascript,html)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corneliustanui&&hide=javascript,html,notebook&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corneliustanui&hide=javascript,html&layout=compact)
