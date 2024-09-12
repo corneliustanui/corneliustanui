@@ -29,4 +29,4 @@ I am a data professional with over 7 years of experience across public health, r
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corneliustanui&hide=javascript,html)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corneliustanui&&hide=javascript,html, jupyternotebook&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corneliustanui&&hide=javascript,html,jupyternotebook&layout=compact&theme=vision-friendly-dark)
