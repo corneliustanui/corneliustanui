@@ -3,7 +3,7 @@ I am a data professional with over 7 years of experience across public health, r
 
 #### Skills :hammer_and_wrench: 
 | Data Management 📝 |  ETL Tools ⚙️ | Data Analysis 💻| Data Visualization 📊|
-| --------------------|:-------------:|-----------------:|---------------------:|
+|:--------------------|:--------------|:-----------------|:---------------------|
 | 1. Medrio           | 1. SQL        | 1. R             | 1. R/Shiny           |
 | 2. Medidata Rave    | 2. elluminate | 2. Stata         | 2. Excel             |
 | 3. ODK              | 3. R          | 3. Python        | 3. PowerBI           |
